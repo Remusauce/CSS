@@ -1,0 +1,18 @@
+h1 {color: blue}
+tbody
+  { 
+    background-image:url('/i/eg_bg_03.gif');
+    background-repeat:no-repeat;
+    background-position:66% 33%;
+  }
+div {width: 500px;}
+p {text-indent: 30%;}
+h1{text-indent: 30%;}
+{text-indent: 30%;}
+</div>
+<tbody>
+<style type="text/css">
+h1 {letter-spacing: -0.5em}
+h1 {letter-spacing: 80px}
+</style>
+</tbody>
